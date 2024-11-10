@@ -135,6 +135,8 @@ Configuration (TypeScript type).
 
 *   `prefix` (`string`, default: `''`)
     — prefix to add in front of `id`s
+*   `maintainCase` (`boolean`, default: `false`)
+    — whether to keep the current case, otherwise make all lowercase
 
 ## Types
 
